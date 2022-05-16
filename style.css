@@ -1,0 +1,18 @@
+li{
+    list-style-type: none;
+    display: inline;
+    margin: 3%;
+    color: bisque;
+}
+nav{
+    position: fixed;
+    background-color: saddlebrown;
+    width: 100%;
+    left: 0;
+    top: 0;
+    width: 100vw;
+}
+li:hover{
+    color:aqua;
+    cursor:pointer;
+}

@@ -16,3 +16,14 @@ li:hover{
     color:aqua;
     cursor:pointer;
 }
+h1{
+    text-align: center;
+    margin: 20%;
+}
+a{
+    text-decoration: none;
+    color: chocolate;
+}
+a:hover{
+    color: burlywood;
+}
